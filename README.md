@@ -1,4 +1,3 @@
-# Module_21
 
 # Creation and Crowdsale of a Kasei Coin.
 ---
